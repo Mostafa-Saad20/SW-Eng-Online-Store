@@ -2,4 +2,4 @@
 
 ### Login function
 
-**impelemnted with _Java_ and Unit Tesing with _jUnit_ ..**
+**impelemented with _Java_ and Unit Tesing with _jUnit_ ..**
