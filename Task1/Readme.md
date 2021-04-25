@@ -1,6 +1,7 @@
 
 ### Task 1 contains Project Requirements & Specifications <br>
-including:
+
+**including:**
 - Project Description.
 - Functional Requirements.
 - non-Functional Requirements.
