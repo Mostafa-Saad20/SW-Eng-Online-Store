@@ -3,4 +3,4 @@
 including:
 - Project Description.
 - Functional Requirements.
-- non-Functional requirements.
+- non-Functional Requirements.
