@@ -1,0 +1,161 @@
+@media screen and (max-width: 1060px) {
+    #primary { width:67%; }
+    #secondary { width:30%; margin-left:3%;}  
+}
+
+/* Media Queries: Tabled Portrait */
+@media screen and (max-width: 768px) {
+    #primary { width:100%; }
+    #secondary { width:100%; margin:0; border:none; }
+}
+
+
+body{
+    background-color: black;
+}
+
+#top_panel{
+    width:100%; height:10%;
+    background-color:rgba(11, 92, 184, 0.8);
+    padding-top: 2px;
+    
+    
+}
+    
+
+#logo{
+    width:380px; height:50px;
+    font-size: 51px; font-weight:bold; color: gold;  
+    padding-left:16px;
+}
+
+
+#user{
+    width:200px; height: 20px; font-size: 20px;
+    padding-top:25px;
+}
+#user a{
+    color:wheat; text-decoration: none; font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#img{
+    font-size: 30px; color:wheat;
+}
+
+#top_links{
+    width:620px; height:50px;
+    margin-left: 37%; margin-top: -2%;
+    padding-top:10px;
+    
+}
+
+#top_links  a{
+    padding: 17px;
+    font-size: 25px; font-family:Verdana, Geneva, Tahoma, sans-serif; color:lightyellow;
+    text-decoration: none; 
+}
+
+#top_links  a:hover{
+    font-weight: bold;
+}
+
+#home{
+    font-weight: bold; font-size: 25px; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#page_content{
+    width:95%; height:90%; 
+    background-color:white;
+    padding-left:5%; padding-top: 10%;
+    
+}
+
+#left_panel{
+    background-color:rgb(51, 42, 83);
+    width:14%; height: 100%;
+    margin-left: -5%; margin-top: -9%;
+    padding-left: 25px;
+}
+
+#left_links{
+    width:90%; height:80%;
+    margin-top: 10%;
+    
+}
+
+
+
+#products{
+    margin-left:15%; margin-top: -47%;
+    
+}
+
+#products td{
+    width:400px; height:355px;
+    background-color:white;
+    
+    border:solid 1px rgb(0,0,0);
+}
+
+#products td:hover{
+    
+    background-color:rgba(224, 216, 216, 0.89);
+    transition: .4s;
+    
+}
+
+
+.prod_name{
+    position:absolute;
+    font-size: 24px; font-weight: bold;
+    margin-top: -9%; margin-left:1%;
+    
+}
+
+.price{
+    position:absolute;
+    width:50px; height: 40px;
+    font-size: 30px;
+    margin-left:17%; margin-top:7%;
+}
+
+
+.addtocart{
+    position:absolute;
+    width: 100px; height:40px;
+    padding:1px; 
+    margin-top:7%; margin-left:1%;
+}
+
+.addtofav{
+    position:absolute;
+    padding:2px; 
+    width: 50px; height:40px;
+    margin-left: 7%; margin-top:7%;
+}
+
+
+.prod_img{
+    position:absolute;
+    margin-left:4%; margin-top:-6.5%;
+    width:250; height: 220;
+}
+
+
+
+#numbers{
+    margin-left: 50%; margin-top: 6%;
+    padding:5px; margin-bottom: 10%;
+}
+
+#search{
+    margin-left:80%; margin-top:-2%;
+    
+
+}
+#search input{
+    padding:5px;
+}

@@ -1,0 +1,60 @@
+body{
+    background-image: url("1519799896307.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#container{
+    width:100.1%; height:100.1%;
+    background-color: rgba(0,0,0,0.4);
+}
+
+
+#form{
+    
+    width:650px; height:650px;
+    padding:16px;
+    background-color:rgb(241, 241, 234);
+    transition: .7s;
+    border: rgb(2, 3, 71) solid 7px;
+    
+
+}
+
+
+.form_element{
+    width:250px; height:50px;
+    margin-top:5px;
+    padding:7px;
+    font-size: 22px;
+
+}
+
+
+
+#login{
+    
+    width:250px; height:80px;
+    margin-top: 90px;
+    background-color:rgb(54, 118, 179);
+    color:#FFFF;
+    border-radius: 20px; outline: none;
+    font-size: 26px; font-family:serif;
+
+}
+#login:hover{
+    background-color:#FFFF;
+    color:rgb(54, 118, 179);
+    cursor:pointer;
+    transition:.5s;
+
+}
+
+#login_pass::placeholder{
+    font-size: 22px;
+}
+
+#err_msg{
+    margin-top: 15px;
+    color:red;
+}
