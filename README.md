@@ -1,5 +1,6 @@
 # SW-Eng-Online-Store
-This Repo contains software engineering project "Electronics Shop".
+This Repo contains project "Electronics Shop".<br>
+made with *PHP* & MySQL, JS, HTML, CSS.
 
 
 # Note:
