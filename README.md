@@ -1,6 +1,10 @@
-# SW-Eng-Online-Store
-This Repo contains project "Electronics Shop".<br>
-made with *PHP* & MySQL, JS, HTML, CSS.
+# Online-Store:
+## Electronics-Shop <br>
+Languages used :
+- *PHP*
+- MySQL
+- JavaScript
+- HTML & CSS.
 
 
 # Note:
